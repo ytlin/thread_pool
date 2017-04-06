@@ -1,2 +1,2 @@
 # thread_pool
-Practice how to use thread pool to speed up quiksort
+Practice how to use the threads pool to speed up Quiksort(parallel)
